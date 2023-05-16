@@ -1,0 +1,105 @@
+<style>
+      .uber-button {
+        background-color: black;
+        color: white;
+        cursor: pointer;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        padding-left: 12px;
+        padding-right: 12px;
+        border-style: solid;
+        border-radius: 2px;
+        margin-left: 10px;
+      }
+      .uber-button:hover {
+        opacity: 0.9;
+      }
+      .uber-button:active {
+        opacity: 0.7;
+      }
+      .amazon-button {
+        background-color: rgb(242, 242, 74);
+        color: black;
+        cursor: pointer;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-left: 60px;
+        padding-right: 60px;
+        border: none;
+        margin-left: 10px;
+        font-weight: 30px;
+        border-radius: 16px;
+        font-size: 15px;
+        font-style: bold;
+        transition: opacity 0.15s;
+      }
+      .amazon-button:hover {
+        opacity: 0.8;
+      }
+      .amazon-button:active {
+        opacity: 0.6;
+      }
+      .github-button {
+        background-color: rgb(27, 162, 27);
+        color: white;
+        cursor: pointer;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border: none;
+        margin-left: 10px;
+        border-radius: 4px;
+        font-weight: 20px;
+        transition: box-shadow 0.15s;
+      }
+      .github-button:hover {
+        box-shadow: 5px 5px 0 rgba(110, 97, 97, 0.7);
+      }
+      .github-button:active {
+        opacity: 0.8;
+      }
+      .linkedin-button {
+        background-color: white;
+        cursor: pointer;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 25px;
+        padding-right: 25px;
+        border-radius: 16px;
+        border-color: rgb(70, 70, 247);
+        color:  rgb(70, 70, 247);
+        border-style: solid;
+        margin-left: 10px;
+        font-weight: 200px;
+        font-size: 16px;
+        font-style: bold;
+        transition: opacity 0.15s;
+      }
+      .linkedin-button:hover {
+        background-color: rgb(70, 70, 247); 
+        color: white;
+      }
+      .linkedin-button:active {
+        opacity: 0.7;
+      }
+      .subscribe-button {
+        background-color: rgb(204, 0, 0);
+        color: white;
+        border: none;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: 10px;
+        cursor: pointer;
+        transition: opacity 0.15s;
+        border-radius: 2px;
+      }
+      .subscribe-button:hover {
+        opacity: 0.8;
+      }
+      .subscribe-button:active {
+        opacity: 0.6;
+      }
+      </style>

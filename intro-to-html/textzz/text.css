@@ -1,0 +1,47 @@
+<style>
+      .one {
+        font-family: Arial;
+        font-weight: bold;
+        font-size: 40px;
+        width: 700px;
+        line-height: 49px;
+        margin-bottom: 0;
+      }
+      .two {
+        font-family: Arial;
+        color: rgb(96,96,96);
+        font-size: 20px;
+        margin-top: 10px;
+        margin-bottom: 0;
+      }
+      .three {
+        font-family: Arial;
+        color: rgb(96,96,96);
+        font-size: 20px;
+        margin-top: 37px;
+      }
+      .four {
+        font-family: Arial;
+        font-size: 27px;
+        color: rgb(96,96,96);
+        width: 520px;
+        line-height: 41px;
+      }
+      .five {
+        margin-top: 140px;
+        background-color: rgb(227, 65, 64);
+        border: none;
+        color: white;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 200px;
+        padding-right: 200px;
+      }
+      .five-one {
+        cursor: pointer;
+      }
+      .five-one:hover {
+        text-decoration: underline;
+      }
+    </style>
